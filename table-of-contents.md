@@ -6,7 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](./days/0.intro.md)
   - [Day 1](./days/day1.md)
-  - [Day 2](#day-2)
+  - [Day 2](./days/day2.md)
   - [Day 3](#day-3)
   - [Day 4](#day-4)
   - [Day 5](#day-5)
