@@ -1,10 +1,10 @@
 # 100DaysOfOSS Progress Tracker
 
-## Day 4
+## Day 5
 
-- **Project**: Building Your Open Source Resume
+- **Project**: github-pr-practice
 - **Description**: auto-descriptive
-- **Tasks completed**: days 1, 2 and 3
+- **Tasks completed**: days 1, 2, 3 and 4
 - **Challenges faced**: filling every step
-- **Resources used**: https://opensauced.pizza/learn/intro-to-oss/the-secret-sauce#building-your-open-source-resume
-- **OpenSauced Highlight**: not applicable
+- **Resources used**: https://app.opensauced.pizza/s/hackademia-learningjourney/github-pr-practice?hideBots=false
+- **OpenSauced Highlight**: https://oss.fyi/3G2YZbg
