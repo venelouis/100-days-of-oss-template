@@ -1,2 +1,2 @@
 # day6 
-I translated opensauced intro read me to Portuguese
+I translated opensauced intro read me to Portuguese.
