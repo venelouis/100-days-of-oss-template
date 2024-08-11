@@ -1,10 +1,11 @@
 # 100DaysOfOSS Progress Tracker
 
-## Day 5
+## Day 6
 
-- **Project**: github-pr-practice
+- **Project**: https://github.com/open-sauced/intro Portuguese translation
 - **Description**: auto-descriptive
-- **Tasks completed**: days 1, 2, 3 and 4
-- **Challenges faced**: filling every step
-- **Resources used**: https://app.opensauced.pizza/s/hackademia-learningjourney/github-pr-practice?hideBots=false
-- **OpenSauced Highlight**: https://oss.fyi/3G2YZbg
+- **Tasks completed**: days 1, 2, 3, 4, 5 and 6
+ - intro translated to Portuguese
+- **Challenges faced**: still waiting for merge
+- **Resources used**: https://github.com/open-sauced/intro/blob/main/contributing/i18n-guidelines.md
+- **OpenSauced Highlight**: https://oss.fyi/Ex83r00
