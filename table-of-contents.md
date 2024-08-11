@@ -10,7 +10,7 @@
   - [Day 3](./days/day3.md)
   - [Day 4](./days/day4.md)
   - [Day 5](./days/day5.md)
-  - [Day 6](#day-6)
+  - [Day 6](./days/day6.md)
   - [Day 7](#day-7)
   - [Day 8](#day-8)
   - [Day 9](#day-9)
