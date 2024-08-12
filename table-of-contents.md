@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-- [100 Days of Open Source](#100-days-of-open-source)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](./days/0.intro.md)
-  - [Day 1](./days/day1.md)
-  - [Day 2](./days/day2.md)
-  - [Day 3](./days/day3.md)
-  - [Day 4](./days/day4.md)
-  - [Day 5](./days/day5.md)
-  - [Day 6](./days/day6.md)
-  - [Day 7](#day-7)
+- [100 Days of Open Source](#100-days-of-open-source) [here]
+  - [Table of Contents](#table-of-contents) [here]
+  - [Introduction](./days/0.intro.md) [x]
+  - [Day 1](./days/day1.md) [x]
+  - [Day 2](./days/day2.md) [x]
+  - [Day 3](./days/day3.md) [x]
+  - [Day 4](./days/day4.md) [x]
+  - [Day 5](./days/day5.md) [x]
+  - [Day 6](./days/day6.md) [x]
+  - [Day 7](./days/day7.md) [x]
   - [Day 8](#day-8)
   - [Day 9](#day-9)
   - [Day 10](#day-10)
